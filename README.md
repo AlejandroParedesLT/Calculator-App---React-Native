@@ -1,6 +1,8 @@
 # Calculator App for mobile Devices - React Native
 
 A simple Calculator for general purposes.
+
+
 ![Calulator](Calculator.JPG)
 
 ## Why use it?
